@@ -20,5 +20,5 @@ from boat.views import *
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('boat1/',boat1,name='boat1.html')
+    path('boat1/',boat1,name='boat1.html'),
 ]

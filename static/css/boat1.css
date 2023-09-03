@@ -1,12 +1,52 @@
-#myVideo {
-    width: 500px; /* Adjust the width as needed */
-    height: 300px; /* Maintain the aspect ratio */
-  }
-#vid
+body
 {
-    width: 500px;
-    height: 300px;
+    background-color: ghostwhite;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12pt; 
+}
+.navbar-nav
+{
+    margin-left: 10px;
+}
+.nav-item{
+    padding: 5px;
+}
+.navbar-brand{   
+    padding: 9px;
+    margin: 8px;
+
+}
+
+.navbar-nav .nav-item .nav-link:hover {   
+    text-decoration: underline  rgb(207, 16, 16); /* Add underline on hover */
+    color: #000000; /* Change the color to your desired hover color */
 }  
-video:hover{
+
+/* Bestseller */
+
+h3{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+video
+{
+    margin-top: 10px;
+    margin-left: 30px;
+    border-radius: 20px;
+}  
+
+/* cards */
+.card{
+    width: 310px;
+    height: 402px;
+    margin-left: 30px;
+}
+.card-body{
+    padding: 30px;
+    margin-left: 30px;
+}
+.col{
+    margin-left: 50px;
+    padding: 20px;
     
 }

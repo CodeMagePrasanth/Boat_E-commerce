@@ -35,44 +35,36 @@ video
     border-radius: 20px;
 }  
 
-/* cards */
-/* .row{
-
-} */
-.col{
-    margin-left: 20px;
-    margin-top: 30px;
-    width: 320px;
-    height: 100px;
-}
-/* .card{
-    width: 350px;
-    height: 100px;
+.card{
+    width: 300px;
+    height: 400px;
+    margin-left: 25px;
     border-radius: 20px;
-}  */
-#img1{
+} 
+#img1{  
     height: 250px;
-    width: 295px;
+    width: 300px;
 }
 
 #img2{
-    height: 250px;
-    width: 295px;
+     height: 250px;
+    width: 300px;
 }
 
 #img3{
     height: 250px;
-    width: 295px;
+    width: 300px;
 }
 #img4{
-    width: 295px;
-    height: 250px;
-   
+    width: 300px;
+    height: 250px;  
+} 
+
+/* .card-body{
+    margin-bottom: 0px;
 }
-/* }
-@media (min-width: 768px) {
-    .card {
-      width: 500px; /* Adjust the width for larger screens */
-      /* height: 400px; Adjust the height for larger screens */
-    /* }
-  } */
+button{
+    margin-top: 50px;
+    text-align: justify;
+} */
+

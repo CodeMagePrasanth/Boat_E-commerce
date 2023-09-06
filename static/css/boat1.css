@@ -32,12 +32,13 @@ video
 {
     margin-top: 10px;
     margin-left: 30px;
-    border-radius: 20px;
+    border-radius: 15px;
 }  
 
 .card{
     width: 300px;
     height: 400px;
+    margin-top: 10px;
     margin-left: 25px;
     border-radius: 20px;
 } 
